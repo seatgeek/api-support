@@ -1,4 +1,4 @@
-##Got a problem or question with the API?
+##Got a problem or question with our API?
 
 Please create a ticket with details of the problem, for a faster response
 please include:
