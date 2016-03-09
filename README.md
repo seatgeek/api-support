@@ -1,6 +1,6 @@
 # api-support
 
-A support channel for the SeatGeek Platform
+A support channel for the [SeatGeek Platform](http://platform.seatgeek.com/). Please review [platform documentation](http://platform.seatgeek.com/) _before_ posting an issue.
 
 ## Have a problem or question with our API?
 
