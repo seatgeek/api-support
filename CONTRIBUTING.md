@@ -13,4 +13,4 @@ $$with details of the problem. For a faster response, please include the followi
  * Reproduction steps if applicable
 
 
-[def]: https://github.com/seatgeek/api-support/issues
+[fix]: https://github.com/seatgeek/api-support/issues
