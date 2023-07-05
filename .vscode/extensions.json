@@ -1,6 +1,5 @@
 {
     "recommendations": [
-        "josser.language-fstar",
-        "visualstudioexptteam.vscodeintellicode"
+        "josser.language-fstar"
     ]
 }
