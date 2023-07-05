@@ -1,6 +1,6 @@
 ## Have a problem or question with our API?
 
-Please create an [][def] 
+# Please create an [][def] 
 with details of the problem. For a faster response, please include the following:
 
  * What you did
