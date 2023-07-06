@@ -11,3 +11,5 @@ with details of the problem. For a faster response, please include the following
  * What happened (don't forget the full error message if applicable)
  * What you expected to happen
  * Reproduction steps if applicable
+ * client_id
+ * MzQ3MDY5OTN8MTY4ODU5ODg4My44OTk3MTY5
